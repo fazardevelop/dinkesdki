@@ -1,0 +1,8 @@
+Copy ke repository server :
+Jalankan php spark server
+
+- Data rumah sakit rujukan
+  http://localhost:8080/
+
+- Data rumah sakit lengkap
+  http://localhost:8080/lengkap
